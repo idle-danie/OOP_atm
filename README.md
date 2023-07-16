@@ -25,7 +25,7 @@ git clone https://github.com/idle-danie/Homeproject.git
 
 2. 프로젝트 디렉토리로 이동합니다:  ```cd BR_Hometest```
 
-3. 다음 명령을 사용하여 테스트를 실행합니다:```python test_controller.py```
+3. 다음 명령을 사용하여 테스트를 실행합니다: ```python test_controller.py```
 
 4. 테스트 결과가 출력되며, 모든 테스트가 성공적으로 통과되었는지 확인할 수 있습니다.
 
