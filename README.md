@@ -13,7 +13,7 @@
 
 프로젝트를 복제하려면 다음 명령을 사용합니다:
 ```
-git clone https://github.com/idle-danie/Homeproject.git
+git clone https://github.com/idle-danie/OOP_atm.git
 ```
 
 ## Build
@@ -24,7 +24,7 @@ git clone https://github.com/idle-danie/Homeproject.git
 
 1. 터미널 또는 명령 프롬프트를 엽니다.
 
-2. 프로젝트 디렉토리로 이동합니다:  ```cd BR_Hometest```
+2. 프로젝트 디렉토리로 이동합니다:  ```cd atmproject```
 
 3. 다음 명령을 사용하여 테스트를 실행합니다: ```python test_controller.py```
 
